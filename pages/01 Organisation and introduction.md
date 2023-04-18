@@ -2,7 +2,6 @@
 - [[Tue, 18.04.2023]]
 - # Organisation
 	- Course materials
-		- https://wuqui.github.io/corpling231
 	- Registration
 	  collapsed:: true
 		- registered students
