@@ -45,7 +45,6 @@
 		  collapsed:: true
 			- [[draws/2023-04-18-11-40-57.excalidraw]]
 - # Introduction
-  collapsed:: true
 	- ## Introduction to [[corpus linguistics]]
 	  collapsed:: true
 		- ### What is corpus linguistics about?
@@ -96,5 +95,6 @@
 				- [[collocations]]
 				- [word sketches]([[word sketches]])
 	- ## Introduction to [[Sketch Engine]]
+	  collapsed:: true
 		- {{embed ((79569b3b-3c62-4318-9624-b6c44cbc7325))}}
 		- {{embed ((61964467-2068-4ed7-bf8c-a0f00fa5293e))}}
