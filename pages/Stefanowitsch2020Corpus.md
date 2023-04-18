@@ -1,4 +1,4 @@
-- [[Bibliography]]
+- [[bibliography]]
 - Stefanowitsch, Anatol. 2020. *Corpus Linguistics*. *Language Science Press*. Language Science Press. [https://doi.org/10.5281/zenodo.3735822](https://doi.org/10.5281/zenodo.3735822).
 - Comprehensive and introductory [[book]] about [[corpus linguistics]]
 - including several [[case studies]]

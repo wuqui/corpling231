@@ -1,0 +1,9 @@
+- key concepts
+  id:: 643e61f8-cf0b-4b40-b162-8132663181d8
+	- [[corpus]] : A corpus is a large, structured collection of texts that serves as the basis for linguistic analysis. Corpora can be general, representing a wide variety of language use, or specialized, focusing on specific genres, registers, or domains.
+	- [[annotation]]: Annotation refers to the process of adding metadata or linguistic information to a corpus, such as part-of-speech tags, syntactic structure, or semantic roles. This additional information can facilitate more in-depth and accurate analyses.
+	- [[concordance]]: A concordance is a tool that allows researchers to search for specific words, phrases, or patterns in a corpus and display the results in context. This helps researchers to examine language patterns and identify trends across various texts.
+	- [[collocations]]: Collocation refers to the co-occurrence of words within a specific context or proximity. Studying collocations can reveal important information about word usage, meaning, and associations.
+	- [[frequency]]: Frequency analysis involves counting the occurrences of linguistic features, such as words or structures, within a corpus. This helps researchers identify patterns and trends, as well as compare language use across different corpora.
+	- [[n-grams]]: N-grams are sequences of n contiguous words or linguistic units within a text. They can be used to study word combinations, patterns, and structures in a corpus.
+	- [[register]]: Register refers to the language variety used in specific contexts or situations, characterized by particular linguistic features, such as vocabulary, grammar, and style. Examining registers can help researchers understand language variation and adaptation.
