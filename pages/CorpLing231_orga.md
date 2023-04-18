@@ -22,8 +22,8 @@ public:: false
 	  collapsed:: true
 		- recommended reading: [[Biber2015Cambridge]]
 	- DOING prep first session
-		- DOING intro to Sketch Engine
+		- DONE intro to Sketch Engine
+		- DOING intro to corpus linguistics
 		- DOING survey
 		  collapsed:: true
-		- DOING intro to corpus linguistics
 		- TODO hands-on task
