@@ -1,6 +1,7 @@
 public:: false
 
 - [website](((3b8495d7-eb59-4241-bbe4-2aae24133b6c)))
+- [home page]([[CorpLing231]])
 - agenda
 	- DONE set up slides
 	- DONE set up Obsidian Publish
