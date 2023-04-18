@@ -1,8 +1,6 @@
 public:: false
 
-- [[course]]: [[Corpus linguistics (course)|Corpus linguistics]]
-  im [[Sommersemester 2023]]
-- [website](https://publish.obsidian.md/corpling231)
+- [website](((3b8495d7-eb59-4241-bbe4-2aae24133b6c)))
 - agenda
 	- DONE set up slides
 	- DONE set up Obsidian Publish
@@ -16,9 +14,11 @@ public:: false
 	- DONE course objectives
 	- DONE make schedule
 	- DONE make [[Bibliography]]
-	- TODO publish graph
-	- TODO check organisation from past seminar
-	- TODO check Liz’ materials
+	- DONE publish graph
+	- DONE check organisation from past seminar
+	- DONE check Liz’ materials
+	  collapsed:: true
+		- recommended reading: [[Biber2015Cambridge]]
 	- DOING prep first session
 		- DOING intro to corpus linguistics
 		- DOING intro to Sketch Engine

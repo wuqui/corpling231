@@ -1,4 +1,8 @@
-- attendance: $\leq$ 2 absences
+- attendance
+	- $\leq$ 2 absences
+	- **active** participation
+	- bring your own device (bigger than phone, ideally laptop)
+	- some preparatory reading/analyses
 - term paper
 	- 3 ECTS: $\approx$ 3–5 pages
 	- 6 ECTS: $\approx$ 10–12 pages

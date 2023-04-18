@@ -1,7 +1,9 @@
 - {{embed ((643e395d-946e-4a95-aabb-1d5b22ff438b))}}
 - [[Tue, 18.04.2023]]
 - # Organisation
-	- {{embed ((3b8495d7-eb59-4241-bbe4-2aae24133b6c))}}
+	- Course materials
+	  collapsed:: true
+		- {{embed ((3b8495d7-eb59-4241-bbe4-2aae24133b6c))}}
 	- Registration
 	  collapsed:: true
 		- registered students
@@ -10,7 +12,33 @@
 	- Schedule
 	  collapsed:: true
 		- {{embed [[Schedule]]}}
-- # Previous experience (doing) corpus linguistics?
+	- Requirements
+	  collapsed:: true
+		- {{embed [[Requirements]]}}
+	- Modulprüfung
+	  collapsed:: true
+		- If you’re taking this course as part of a ‘Modulprüfung’, please let me know.
+	- Term papers
+	  collapsed:: true
+		- ((60061ba0-051c-46cd-93d9-2c79536d5f86))
+		- {{embed ((cbb8ed60-64e4-49df-8f2b-e5bd0dcd08b6))}}
+- # Survey: experience (doing) corpus linguistics?
+	- Have you written a term paper yet?
+		- an empirical one?
+			- in linguistics?
+	- Have you worked with corpus data?
+	- Which corpora have you worked with?
+	- Which corpus tools have you worked with? e.g.:
+		- AntConc
+		- Sketch Engine
+		- WordSmith
+		- LancsBox
+	- Which corpuslinguistic methods have you used?
+	- What are your expectations for this course?
+	- What are you most interested in?
+		- linguistic phenomena
+		- datasets
+		- methods
 - # Introduction
 	- ## Introduction to [[corpus linguistics]]
 	  collapsed:: true
