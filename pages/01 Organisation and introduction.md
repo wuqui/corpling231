@@ -1,7 +1,7 @@
 - {{embed ((643e395d-946e-4a95-aabb-1d5b22ff438b))}}
 - [[Tue, 18.04.2023]]
 - # Organisation
-	- Course materials
+	- {{embed ((3b8495d7-eb59-4241-bbe4-2aae24133b6c))}}
 	- Registration
 	  collapsed:: true
 		- registered students
