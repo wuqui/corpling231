@@ -1,0 +1,4 @@
+- attendance: $\leq$ 2 absences
+- term paper
+	- 3 ECTS: $\approx$ 3–5 pages
+	- 6 ECTS: $\approx$ 10–12 pages
