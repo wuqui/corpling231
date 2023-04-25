@@ -1,0 +1,7 @@
+- registration
+	- Who’s here?
+	- Is everyone still planning on getting credits in this course?
+	- Modulprüfung
+- background on [[lexis]] / [[lexical innovation]]
+- [[Sketch Engine]] tutorial
+- [[exercise]]: Using [[Sketch Engine]]

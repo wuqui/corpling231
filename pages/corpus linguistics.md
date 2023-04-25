@@ -3,21 +3,29 @@
 	- [[corpus]]
 	  collapsed:: true
 		- A corpus is a large, structured collection of texts that serves as the basis for linguistic analysis. Corpora can be general, representing a wide variety of language use, or specialized, focusing on specific genres, registers, or domains.
+			- monitor corpora such as [[NOW]]
 	- [[annotation]]
 	  collapsed:: true
 		- Annotation refers to the process of adding metadata or linguistic information to a corpus, such as part-of-speech tags, syntactic structure, or semantic roles. This additional information can facilitate more in-depth and accurate analyses.
+		- [[metadata]]
+			- corpus
+				- texts: [[author]], [[text type]], [[register]], [[topic]]
+					- words: [[word class]], [[lemmatization]]
 	- [[concordance]]
 	  collapsed:: true
 		- A concordance is a tool that allows researchers to search for specific words, phrases, or patterns in a corpus and display the results in context. This helps researchers to examine language patterns and identify trends across various texts.
 	- [[collocations]]
 	  collapsed:: true
 		- Collocation refers to the co-occurrence of words within a specific context or proximity. Studying collocations can reveal important information about word usage, meaning, and associations.
+			- ‘You shall know a word by the company it keeps.’ (Firth 1957) [[distributional hypothesis]]
+			- [[word sketches]]
 	- [[frequency]]
 	  collapsed:: true
 		- Frequency analysis involves counting the occurrences of linguistic features, such as words or structures, within a corpus. This helps researchers identify patterns and trends, as well as compare language use across different corpora.
 	- [[n-grams]]
 	  collapsed:: true
 		- N-grams are sequences of n contiguous words or linguistic units within a text. They can be used to study word combinations, patterns, and structures in a corpus.
+			- Example: *The cat sat on the mat.*
 	- [[register]]
-	  collapsed:: true
 		- Register refers to the language variety used in specific contexts or situations, characterized by particular linguistic features, such as vocabulary, grammar, and style. Examining registers can help researchers understand language variation and adaptation.
+			- [[linguistic variation]]

@@ -5,6 +5,7 @@ Quirin Würschinger, LMU Munich
 
 - **course materials**
   id:: 3b8495d7-eb59-4241-bbe4-2aae24133b6c
+  collapsed:: true
 	- based on [[logseq]]
 	- available at https://wuqui.github.io/corpling231
 - **[requirements]([[requirements]])**
