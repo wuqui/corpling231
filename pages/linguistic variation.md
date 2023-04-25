@@ -1,0 +1,3 @@
+- two main dimensions
+	- [[speaker variation]]
+	- [[text type variation]]

@@ -1,3 +1,3 @@
-- [[bibliography]]
-- O’Keeffe, Anne, and Michael McCarthy, eds. 2022. *The Routledge Handbook of Corpus Linguistics*. Second edition. Routledge Handbooks in Applied Linguistics. Abingdon, Oxon ; New York, NY: Routledge.
 - comprehensive and introductory [[book]] about [[corpus linguistics]]
+- [[bibliography]]
+	- O’Keeffe, Anne, and Michael McCarthy, eds. 2022. *The Routledge Handbook of Corpus Linguistics*. Second edition. Routledge Handbooks in Applied Linguistics. Abingdon, Oxon ; New York, NY: Routledge.

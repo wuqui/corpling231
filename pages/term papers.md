@@ -7,6 +7,7 @@ alias:: term paper
 	- 6 ECTS: $\approx$ 10–12 pages
 - structure
   id:: cbb8ed60-64e4-49df-8f2b-e5bd0dcd08b6
+  collapsed:: true
 	- research questions and hypotheses
 	- theoretical backround and previous work
 	- data and methods
