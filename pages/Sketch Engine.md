@@ -2,8 +2,9 @@ alias:: SkE
 
 - website: https://www.sketchengine.eu/
   id:: 79569b3b-3c62-4318-9624-b6c44cbc7325
-- tutorial: https://wuqui.github.io/SkEtut/
+- tutorial
   id:: 61964467-2068-4ed7-bf8c-a0f00fa5293e
+	- https://wuqui.github.io/SkEtut/
 - can be used for the [[compilation]], [[annotation]], and [analysis]([[corpus analysis]]) of corpora
 - provides a wide range of pre-loaded [[corpora]]
 	- [[English Historical Book Collection]] [(link)](https://app.sketchengine.eu/#dashboard?corpname=preloaded%2Fearly_english&corp_info=1): ‘**historical** corpus collection of English books published in the UK and the USA between 1473 and 1820’
