@@ -12,11 +12,12 @@
 		- waiting list
 		- open issues?
 	- Schedule
-	  collapsed:: true
 		- {{embed [[schedule]]}}
 	- Requirements
+	  collapsed:: true
 		- {{embed [[requirements]]}}
 	- Term papers
+	  collapsed:: true
 		- {{embed [[term papers]]}}
 - # Survey: experiences and expectations
   collapsed:: true

@@ -3,5 +3,6 @@
 	- Is everyone still planning on getting credits in this course?
 	- Modulprüfung
 - background on [[lexis]] / [[lexical innovation]]
+	- Schmid Blueprint
 - [[Sketch Engine]] tutorial
 - [[exercise]]: Using [[Sketch Engine]]
