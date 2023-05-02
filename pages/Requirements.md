@@ -1,4 +1,4 @@
-- # [[attendance]]
+- # attendance
 	- $\leq$ 2 absences
 	- **active** participation
 	- BYOD: bring your own device (bigger than phone, ideally laptop)
@@ -7,7 +7,7 @@
 	- requirements depend on
 		- your individual study programme and module combinations and
 		- on how many credits you aim to get in this course
-	- please check which option applies to you
+		- please check which option applies to you
 	- options
 		- 3 ECTS: ((644bec05-c31d-43d4-9fbc-b46093a0b315))
 		- 6 ECTS: ((644bec08-4c44-4e80-8c07-1dbb9a62a418))

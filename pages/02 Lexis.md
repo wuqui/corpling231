@@ -16,11 +16,9 @@
 				- *spreader*
 		- knowledge of words is [conventional]([[conventionalization]]): speakers learn form-meaning pairings (→ model of the linguistic Sign by Ferdinand de Saussure; e.g. *tree*)
 	- [[theoretical framework]]
-		- the [[S-curve model]] of [linguistic innovation]([[linguistic innovation]]) and [change]([[language change]])
-		  collapsed:: true
+		- the [[S-curve model]] of [linguistic innovation]([[linguistic innovation]]), [[diffusion]], and [change]([[language change]])
 			- {{embed ((6447af61-6674-4374-9bab-a132f1af0f01))}}
 		- [[EC-Model]] ([[Schmid2015Blueprint]], [[Schmid2020DynamicsLinguistic]])
-		  collapsed:: true
 			- the more frequently a word is used, the more likely it is
 				- that speakers have stored it in their [[mental lexicon]] ([[entrenchment]])
 				- that it is part of the conventional language system of a language ([[conventionalization]])

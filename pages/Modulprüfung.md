@@ -1,0 +1,14 @@
+- parts
+	- ((644bec08-4c44-4e80-8c07-1dbb9a62a418))
+	- recorded presentation
+		- after the end of the semester
+		- before submitting your paper
+		- about 10 min long
+		- format:
+			- slides
+			- audio
+			- optional: video
+		- tools for recording, e.g.
+			- [Microsoft Powerpoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+			- [OBS Studio](https://obsproject.com/)
+		-
