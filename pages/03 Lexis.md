@@ -1,0 +1,17 @@
+- organisation
+- theory: lexical innovation
+	- conventionalization
+		- usualization
+		- diffusion
+			- across speakers and communities
+			- across text types
+	- frequency as an indicator of conventionality
+		- raw frequency
+		- relative frequency
+		- frequency over time
+		- frequency across text types
+- practice: studying lexical innovation using corpora
+	- last week’s exercises
+		- ((6447bb36-3911-4021-9189-797e35ab5c8b))
+	- frequency over time
+	- frequency across text types

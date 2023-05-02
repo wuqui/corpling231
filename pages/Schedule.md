@@ -2,7 +2,7 @@
   |----|--------------------|--------------------------------------|
   | 01 | [[Apr 18th, 2023]] | [[01 Organisation and introduction]] |
   | 02 | [[Apr 25th, 2023]] | [[02 Lexis]] |
-  | 03 | [[May 2nd, 2023]]  | Lexis                                |
+  | 03 | [[May 2nd, 2023]]  | [03 Lexis]([[03 Lexis]])                                |
   | 04 | [[May 9th, 2023]]  | Morphology                           |
   | 05 | [[May 16th, 2023]] | Syntax                               |
   | 06 | [[May 23rd, 2023]] | Syntax                               |

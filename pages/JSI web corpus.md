@@ -1,2 +1,3 @@
-- [[corpus]] of [[PDE]] [[web]]
+- [[diachronic]] [[corpus]] of [[PDE]] [[web]]
 - available via [[Sketch Engine]]
+	- title: *Timestamped JSI web corpus 2014-2021 English*
