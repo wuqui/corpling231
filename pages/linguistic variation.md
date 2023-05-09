@@ -1,3 +1,5 @@
 - two main dimensions
 	- [[speaker variation]]
-	- [[text type variation]]
+	- [[text type/variation]]
+- linguistic domains
+	- [[semantic/variation]]

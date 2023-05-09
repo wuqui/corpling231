@@ -1,6 +1,7 @@
 tags:: session
 
 - # theory: lexical innovation
+  collapsed:: true
 	- ## conventionalization & diffusion
 		- ### [[EC-Model]]
 		  collapsed:: true
@@ -75,12 +76,13 @@ tags:: session
 			- [diffusion]([[diffusion]]) across communities
 			  collapsed:: true
 				- ![image.png](../assets/image_1683027011093_0.png)
-			- frequency across text types ([[text type variation]])
+			- frequency across text types ([[text type/variation]])
 			  collapsed:: true
 				- distribution of the use of *blockchain* across topics in the [[enTenTen20]] corpus on [[Sketch Engine]]
 				  collapsed:: true
 					- ![image.png](../assets/image_1683027088964_0.png)
 - # practice: studying lexical innovation using corpora
+  id:: 6450dc50-0db4-4ce1-a6e5-7440beb8e766
 	- using the case study words from [[Würschinger2021SocialNetworks]],
 		- *upskill*
 		- *hyperlocal*

@@ -37,4 +37,4 @@
 	  collapsed:: true
 		- Register refers to the language variety used in specific contexts or situations, characterized by particular linguistic features, such as vocabulary, grammar, and style. Examining registers can help researchers understand language variation and adaptation.
 		  collapsed:: true
-			- a type of [[text type variation]]
+			- a type of [[text type/variation]]

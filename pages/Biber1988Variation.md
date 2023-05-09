@@ -1,0 +1,2 @@
+- [[bibliography]]
+	- Biber, Douglas. 1988. *Variation across Speech and Writing*. Cambridge: Cambridge University Press. [https://doi.org/10.1017/CBO9780511621024](https://doi.org/10.1017/CBO9780511621024).
