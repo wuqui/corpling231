@@ -1,3 +1,5 @@
+tags:: session
+
 - {{embed ((643e395d-946e-4a95-aabb-1d5b22ff438b))}}
 - [[Tue, 18.04.2023]]
 - # Organisation
