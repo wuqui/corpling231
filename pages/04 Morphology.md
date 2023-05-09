@@ -1,6 +1,7 @@
 tags:: session
 
 - housekeeping
+  collapsed:: true
 	- solutions for last week’s exercises: see [here](((6450dc50-0db4-4ce1-a6e5-7440beb8e766)))
 	- announcement: [[PAD Fremdsprachenassistenz]]
 	  collapsed:: true
