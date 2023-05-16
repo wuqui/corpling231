@@ -4,7 +4,7 @@
   | 02 | [[Apr 25th, 2023]] | [[02 Lexis]] |
   | 03 | [[May 2nd, 2023]]  | [03 Lexis]([[03 Lexis]])                                |
   | 04 | [[May 9th, 2023]]  | [[04 Morphology]] |
-  | 05 | [[May 16th, 2023]] | Syntax                               |
+  | 05 | [[May 16th, 2023]] | [[05 Morphology and syntax]]                               |
   | 06 | [[May 23rd, 2023]] | Syntax                               |
   |    |                    |                                      |
   | 07 | [[Jun 6th, 2023]]  | Linguistic variation                 |
