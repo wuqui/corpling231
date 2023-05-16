@@ -1,9 +1,9 @@
 tags:: session
 
 - diagram
-	- {{renderer excalidraw, excalidraw-2023-05-16-10-41-35}}
-	- png
-		- ![image.png](../assets/image_1684226807569_0.png)
+	- [[draws/2023-05-16-11-12-34.excalidraw]]
+	- ![image.png](../assets/image_1684226807569_0.png)
+	-
 - housekeeping
   collapsed:: true
 	- solutions for last week’s exercises: see [here](((6450dc50-0db4-4ce1-a6e5-7440beb8e766)))
