@@ -1,15 +1,16 @@
 tags:: session
 
-- diagram
-	- [[draws/2023-05-16-11-12-34.excalidraw]]
-	- ![image.png](../assets/image_1684226807569_0.png)
-	-
 - housekeeping
   collapsed:: true
 	- solutions for last week’s exercises: see [here](((6450dc50-0db4-4ce1-a6e5-7440beb8e766)))
 	- announcement: [[PAD Fremdsprachenassistenz]]
 	  collapsed:: true
 		- {{embed [[PAD Fremdsprachenassistenz]]}}
+- diagram
+	- edit
+		- {{renderer excalidraw, excalidraw-2023-05-16-11-17-52}}
+	- output
+		- ![image.png](../assets/image_1684228919167_0.png)
 - # fundamentals in [[morphology and word-formation]]
 	- [morphology]([[morphology]]) vs [word-formation]([[word-formation]])
 	  collapsed:: true
