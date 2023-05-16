@@ -97,7 +97,7 @@ tags:: session
 					- query: `[lemma="alt-right"]`
 					- result
 						- ![Screenshot 2023-05-09 at 11.04.54.png](../assets/Screenshot_2023-05-09_at_11.04.54_1683623177745_0.png)
-							- raw total frequency: `86,572`
+							- absolute total frequency: `86,572`
 							- relative total frequency: `1.23` per million words/tokens (pmw)
 			- its [frequency]([[frequency]]) over time: which was the `Year` it was used the most?
 				- ![Screenshot 2023-05-09 at 11.07.38.png](../assets/Screenshot_2023-05-09_at_11.07.38_1683623335276_0.png)
