@@ -40,7 +40,7 @@ tags:: session
 				- search for attestations of the pattern `the NOUN BE that` as in *the thing is that* or *the problems are that*
 		- [[frequency]] analysis
 			- identify the most common adjectives in the pattern `ADJ SMARTPHONE` in the [[enTenTen20]] corpus
-			- in the [[English Historical Book Collection]] corpus
+			- in the [[English Historical Book Collection (EEBO, ECCO, Evans)]] corpus
 				- identify which words have exhibited the highest increase in usage frequency by using the `trends` feature
 				- get an overview of the frequency increase of the word which has shown the most positive trend
 				-
