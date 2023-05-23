@@ -13,7 +13,8 @@ tags:: [[paper]]
 	- > Each of the clippings is represented by a [concordance]([[concordance]]) of 100 examples in context that were gathered from the [Corpus of Contemporary American English]([[COCA]]).
 	- > We compare clippings and their source words both at the aggregate level and in terms of comparisons between individual clippings and their source words.
 	- > The data show that clippings tend to be used [in contexts]([[text type/variation]]) that represent involved text production, which aligns with the idea that clipped words signal familiarity with their referents.
-	- > It is further observed that individual clippings and their source words partly diverge in their distributional profiles, reflecting both overlap and differences with regard to their meanings.
+	- id:: 646c7ffd-f579-4778-a862-f26364baf6ec
+	  > It is further observed that individual clippings and their source words partly diverge in their distributional profiles, reflecting both overlap and differences with regard to their meanings.
 	- > We interpret these findings against the theoretical background of [Construction Grammar]([[Construction Grammar]]) and specifically the Principle of No Synonymy.
 - [[keywords]]
 	- clipping, COCA, distributional profile, Construction Grammar, Principle of No Synonymy

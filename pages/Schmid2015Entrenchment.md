@@ -1,2 +1,3 @@
 - [[bibliography]]
 	- Schmid, Hans-Jörg, and Annette Mantlik. 2015. ‘Entrenchment in Historical Corpora? Reconstructing Dead Authors’ Minds from Their Usage Profiles’. *Anglia (Halle an Der Saale, Germany)* 133 (4): 583—623.
+- [[pdf]]: [Schmid2015EntrenchmentHistorical.pdf](../assets/Schmid2015EntrenchmentHistorical_1684829585604_0.pdf)

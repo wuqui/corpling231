@@ -51,11 +51,12 @@ tags:: session
 		  collapsed:: true
 			- clipping
 - # a corpuslinguistic study of clipping: [[Hilpert2023Meaning]]
-  collapsed:: true
 	- ((645a1add-5577-41b5-a719-4379a3fc72d5))
 	- ## abstract
+	  collapsed:: true
 		- {{embed ((645a1b9e-f78b-46c6-a43e-262f285a67d2))}}
 	- ## theoretical framework
+	  collapsed:: true
 		- alternative view in previous work: no difference between source and clipped forms
 			- ((645a1fda-7e5f-4fa4-8572-25f32477431e))
 		- authors’ framework
@@ -67,15 +68,18 @@ tags:: session
 				- ((645a20e9-f7b0-478b-bd31-d1fa07fdd451))
 				- ((645a20d0-6b75-486f-9ba9-bbdf716dc685))
 	- ## data
+	  collapsed:: true
 		- dataset of clippings
 			- ((645a2870-9ab6-4a81-941d-44fe6a3c121a))
 		- corpus data
 			- ((645a2087-0c80-4a30-838d-52a0d2c3e8fa))
 	- ## method
+	  collapsed:: true
 		- analysing [[meaning]] based on
 			- [[collocations]]
 			- [[word embeddings]]
 	- ## results
+	  collapsed:: true
 		- variation across text types
 			- ((645a1dbd-328b-464e-b703-0ef2c6ab114f))
 			- {{embed ((645a2a9e-c7a6-4959-801f-dea28d63998f))}}
@@ -97,6 +101,7 @@ tags:: session
 					- collect results
 						- enter information into the [[Google Sheet]] [here](https://docs.google.com/spreadsheets/d/1G5CQR6ztojJe3XuqFtfKP_oD_tvc5Yi-kxPNpay2LNw/edit?usp=sharing) (short URL: https://shorturl.at/aguMS)
 					- analyse results using [[Microsoft Excel]]
+					  id:: 6463603a-25b8-468a-abff-524a6c75fe4f
 						- analysis file: [CorpLingClippingsData.xlsx](../assets/CorpLingClippingsData_1684234312750_0.xlsx)
 						- steps
 							- TODO insert `Table` for range of data
@@ -108,8 +113,9 @@ tags:: session
 								- remove `Grand Total` by right-click → remove
 							- TODO insert `Pivot Chart`
 								- ![image.png](../assets/image_1684235134140_0.png)
-				- frequency over time in the [[Timestamped JSI web corpus 2014-2021 English]]
-				- frequency by text type in the [[enTenTen20]] corpus
+				- potential further analyses
+					- frequency over time in the [[Timestamped JSI web corpus 2014-2021 English]]
+					- frequency by text type in the [[enTenTen20]] corpus
 			- ((1e44dc00-0557-4672-9187-6986cf52b3e7))
 	- follow-up: studying long-term [[diachronic]] trends using [[english-corpora.org]]
 		- [[NOW]] corpus
