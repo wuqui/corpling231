@@ -31,9 +31,12 @@
 		- using the [[English Historical Book Collection (EEBO, ECCO, Evans)]] in [[Sketch Engine]]
 		  id:: 646c8de9-6e1a-4e34-a604-12ad00520bf6
 			- query for the construction and get a [[concordance]] view
+			  collapsed:: true
 				- ![image.png](../assets/image_1686050711153_0.png)
 			- [[frequency]] analysis
+			  collapsed:: true
 				- determine the frequency of the construction in the corpus
+				  collapsed:: true
 					- ![image.png](../assets/image_1686050646760_0.png)
 						- [absolute]([[frequency/absolute]]) frequency (`Frequency`): 5,909 tokens
 						  id:: 646c8cde-e494-4239-97ac-70c001eae31a
@@ -41,21 +44,29 @@
 						  id:: 646c8ce6-ea3b-49f6-935c-5f1695699d7e
 				- investigate the [[diachronic]] frequency of the construction over time (by `Century`)
 					- within Sketch Engine
+					  collapsed:: true
 						- ![image.png](../assets/image_1686050837519_0.png)
 					- using [[Microsoft Excel]]
 						- Excel file: [the-n-be-that-diac.xlsx](../assets/the-n-be-that-diac_1686051292988_0.xlsx)
 						- export the results in Excel format (`.xlsx` file type)
+						  collapsed:: true
 							- ![image.png](../assets/image_1686050920111_0.png)
 						- make a table
+						  collapsed:: true
 							- ![image.png](../assets/image_1686051101901_0.png)
 						- make line charts for
+						  collapsed:: true
 							- ((646c8cde-e494-4239-97ac-70c001eae31a))
+							  collapsed:: true
 								- ![image.png](../assets/image_1686051211377_0.png)
 							- ((646c8ce6-ea3b-49f6-935c-5f1695699d7e))
+							  collapsed:: true
 								- ![image.png](../assets/image_1686051247474_0.png)
 			- query specifically for the noun in the construction using [[CQL]] (hint: use the operator `within` preceding the construction)
 			  id:: 646c8ab7-3d11-43d3-89d7-00d7944ebe60
+			  collapsed:: true
 				- identify the most frequent nouns used in the construction
+				  collapsed:: true
 					- ![image.png](../assets/image_1686051375921_0.png)
 					- ![image.png](../assets/image_1686051540495_0.png)
 					- ![image.png](../assets/image_1686051610569_0.png)
