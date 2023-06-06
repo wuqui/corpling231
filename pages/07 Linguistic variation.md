@@ -1,3 +1,8 @@
+- [[assessment]] deadlines
+	- Hausarbeit
+		- 18.09.2023
+	- Thesenpapier
+		- 07.09.2023
 - linguistic variation
 	- types of [[linguistic variation]] and [[varieties]]
 	  id:: 647ee07c-6f9e-40df-9e07-da25830ac199
