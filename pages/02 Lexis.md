@@ -27,6 +27,7 @@ tags:: session
 			- {{embed ((6447aec5-f6ed-4fc0-99e4-23a9d1ea761f))}}
 	- [[operationalization]]
 		- [[frequency]] as an indicator for [[entrenchment]] and [conventionality]([[conventionalization]]) ([[Stefanowitsch2017CorpusbasedPerspective]])
+		  id:: 646c7ffc-80c0-4526-935c-4c5f3d015114
 			- [[corpus-as-input]]: language used in corpora represents potential [[exposure]] to speakers
 			- [[corpus-as-output]]: languaged used by speakers in corpora represents potential degrees of entrenchment
 - [[Sketch Engine]] tutorial

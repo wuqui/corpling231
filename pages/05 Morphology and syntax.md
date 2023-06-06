@@ -14,7 +14,7 @@
 			- [[collocations]]
 			  collapsed:: true
 				- run query to retrieve all occurrences and get concordance view (e.g. `[word="brother"]`)
-					- ![image.png](../assets/image_1684831483384_0.png)
+					- ![image.png](../assets/image_1684831483384_0.png){:height 246, :width 630}
 					  id:: 646c7cfa-b90e-4b49-8cf4-c78f8e81c272
 				- click on collocation analysis icon (see green rectangle [above](((646c7cfa-b90e-4b49-8cf4-c78f8e81c272))))
 				- run collocation analysis
@@ -26,9 +26,8 @@
 					- ![image.png](../assets/image_1684832062090_0.png)
 						- ==1==: statistical measures (see [above](((646c7ffc-2a9c-4ee8-932c-5f9147e4823f))))
 			- [[word sketches]]
-			  collapsed:: true
 				- for single forms (e.g. *bro*)
-					- ![image.png](../assets/image_1684832324735_0.png)
+					- ![image.png](../assets/image_1684832324735_0.png){:height 427, :width 652}
 						- ==1==: word class
 					- results
 						- syntactic contexts
@@ -54,6 +53,10 @@
 				- source word
 				- clipped form
 			- In how far do they differ semantically? (e.g. stylistic or social characteristics)
+				- tendencies
+					- clipped forms more informal
+					- used in different contexts (syntagmatic profile) without denotational difference in meaning
+					- clipped forms with more narrow scope of meaning
 		- conclusion by [[Hilpert2023Meaning]]
 			- ((646c7ffd-f579-4778-a862-f26364baf6ec))
 - # syntax

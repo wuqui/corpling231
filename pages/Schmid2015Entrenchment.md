@@ -10,25 +10,49 @@
 		- > (as in my concern is that [...], the idea was that [...])
 			- taken from [abstract](((646c8707-eff6-415a-aeef-ecde49f26c76)))
 	- corpus attestation
-		- ![image.png](../assets/image_1684834536931_0.png)
+		- ![image.png](../assets/image_1684834536931_0.png){:height 80, :width 540}
+		  id:: 646c88e8-8923-4244-8457-d4791a56e7a0
 			- p. 586
 	- analysis in terms of [[Construction Grammar]]
 		- ![image.png](../assets/image_1684834699012_0.png)
+		  id:: 646c898a-23b1-46e0-82ea-39c4e1ca833e
 			- p. 586
+- [[EC-Model]]
+  id:: 647f0619-8bfb-42b3-b4af-607eb44184b2
+	- ![image.png](../assets/image_1686046238726_0.png)
+		- p. 588
 - [[data]]
   id:: 646c8878-fbbe-4f50-880c-b764b77f3330
 	- ![image.png](../assets/image_1684834428369_0.png)
+	  id:: 646c887b-81fc-4b73-b8a9-5ace5e7b9ece
 		- p. 591
 - results
 	- [[diachronic]] [[frequency]]
 	  id:: 646c8a01-f035-4b66-8d80-df92ce4de28c
 		- ![image.png](../assets/image_1684834829335_0.png)
+		  id:: 646c8a0c-c206-4b08-b7e3-30428f0f3596
+		  collapsed:: true
+			-
 			- p. 601
+	- [[text type]] distribution
+		- ![image.png](../assets/image_1686046395450_0.png)
+		  id:: 647f06ba-5e13-4ba5-924d-4f73fdc7655f
+			- p. 600
+	- [[speaker variation]]
+		- ![image.png](../assets/image_1686046517173_0.png)
+		  id:: 647f0734-ac35-4b68-bf52-0cc558e7b4cc
+			- p. 606
+		- ![image.png](../assets/image_1686046563670_0.png)
+		  id:: 647f073d-ed74-4752-9930-0c3aedd92107
+			- p. 607
 	- [semantic change]([[semantic/change]])
 	  id:: 646c9bdd-a595-46b1-a2c5-58d66fcb592b
-		- ![image.png](../assets/image_1684839433344_0.png)
+		- ![image.png](../assets/image_1684839433344_0.png){:height 375, :width 540}
+		  collapsed:: true
 			- p. 597
 		- ![image.png](../assets/image_1684839533616_0.png)
+		  collapsed:: true
 			- p. 598
 		- ![image.png](../assets/image_1684839472853_0.png)
+		  collapsed:: true
 			- p. 598

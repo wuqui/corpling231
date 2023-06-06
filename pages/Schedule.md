@@ -7,7 +7,7 @@
   | 05 | [[May 16th, 2023]] | [[05 Morphology and syntax]]         |
   | 06 | [[May 23rd, 2023]] | [[06 Syntax]]                        |
   |  —  | [[May 30th, 2023]]                | —                                     |
-  | 07 | [[Jun 6th, 2023]]  | Linguistic variation                 |
+  | 07 | [[Jun 6th, 2023]]  | [[07 Linguistic variation]]                 |
   | 08 | [[Jun 13th, 2023]] | Linguistic variation                 |
   | 09 | [[Jun 20th, 2023]] | Language change                      |
   | 10 | [[Jun 27th, 2023]] | Language change                      |

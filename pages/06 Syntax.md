@@ -1,4 +1,5 @@
 - # clippings
+  collapsed:: true
 	- ## frequency-based analysis
 	  collapsed:: true
 		- {{embed ((6463603a-25b8-468a-abff-524a6c75fe4f))}}
@@ -7,7 +8,6 @@
 		- {{embed ((1e44dc00-0557-4672-9187-6986cf52b3e7))}}
 - # syntax:`the N BE that`
 	- ## [[theoretical framework]]: ([[Schmid2015Entrenchment]])
-	  collapsed:: true
 		- ### abstract
 		  collapsed:: true
 			- ((646c8707-eff6-415a-aeef-ecde49f26c76))
@@ -26,41 +26,40 @@
 			  collapsed:: true
 				- {{embed ((646c8a01-f035-4b66-8d80-df92ce4de28c))}}
 			- semantic change
-			  collapsed:: true
 				- {{embed ((646c9bdd-a595-46b1-a2c5-58d66fcb592b))}}
 	- ## [[practice]]: corpus study
-	  collapsed:: true
 		- using the [[English Historical Book Collection (EEBO, ECCO, Evans)]] in [[Sketch Engine]]
+		  id:: 646c8de9-6e1a-4e34-a604-12ad00520bf6
 			- query for the construction and get a [[concordance]] view
-			  logseq.order-list-type:: number
+				- ![image.png](../assets/image_1686050711153_0.png)
 			- [[frequency]] analysis
-			  logseq.order-list-type:: number
 				- determine the frequency of the construction in the corpus
-				  logseq.order-list-type:: number
-					- [absolute]([[frequency/absolute]]) frequency (`Frequency`)
-					  logseq.order-list-type:: number
-					  id:: 646c8cde-e494-4239-97ac-70c001eae31a
-					- [relative]([[frequency/relative]]) frequency (`Relative in text type`)
-					  logseq.order-list-type:: number
-					  id:: 646c8ce6-ea3b-49f6-935c-5f1695699d7e
-				- investigate the [[diachronic]] frequency of the construction over time (by century and decade)
-				  logseq.order-list-type:: number
+					- ![image.png](../assets/image_1686050646760_0.png)
+						- [absolute]([[frequency/absolute]]) frequency (`Frequency`): 5,909 tokens
+						  id:: 646c8cde-e494-4239-97ac-70c001eae31a
+						- [relative]([[frequency/relative]]) frequency (`Relative in text type`, pmw: per million words): 5.99 occurrences per million tokens/words (pmw)
+						  id:: 646c8ce6-ea3b-49f6-935c-5f1695699d7e
+				- investigate the [[diachronic]] frequency of the construction over time (by `Century`)
 					- within Sketch Engine
-					  logseq.order-list-type:: number
+						- ![image.png](../assets/image_1686050837519_0.png)
 					- using [[Microsoft Excel]]
-					  logseq.order-list-type:: number
+						- Excel file: [the-n-be-that-diac.xlsx](../assets/the-n-be-that-diac_1686051292988_0.xlsx)
+						- export the results in Excel format (`.xlsx` file type)
+							- ![image.png](../assets/image_1686050920111_0.png)
 						- make a table
-						  logseq.order-list-type:: number
+							- ![image.png](../assets/image_1686051101901_0.png)
 						- make line charts for
-						  logseq.order-list-type:: number
 							- ((646c8cde-e494-4239-97ac-70c001eae31a))
-							  logseq.order-list-type:: number
+								- ![image.png](../assets/image_1686051211377_0.png)
 							- ((646c8ce6-ea3b-49f6-935c-5f1695699d7e))
-							  logseq.order-list-type:: number
+								- ![image.png](../assets/image_1686051247474_0.png)
 			- query specifically for the noun in the construction using [[CQL]] (hint: use the operator `within` preceding the construction)
-			  logseq.order-list-type:: number
+			  id:: 646c8ab7-3d11-43d3-89d7-00d7944ebe60
 				- identify the most frequent nouns used in the construction
-				  logseq.order-list-type:: number
+					- ![image.png](../assets/image_1686051375921_0.png)
+					- ![image.png](../assets/image_1686051540495_0.png)
+					- ![image.png](../assets/image_1686051610569_0.png)
 				- analyse whether the most frequent nouns have changed over time (hint: do separate searches based on different values for `Text Type` / `Century`)
-				  logseq.order-list-type:: number
+					- ![image.png](../assets/image_1686051458309_0.png)
+					- ![image.png](../assets/image_1686051675527_0.png)
 	- [[homework]]: read [[Schmid2015Entrenchment]]

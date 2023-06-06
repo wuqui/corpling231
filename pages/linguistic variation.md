@@ -3,3 +3,4 @@
 	- [[text type/variation]]
 - linguistic domains
 	- [[semantic/variation]]
+- {{embed ((647ee07c-6f9e-40df-9e07-da25830ac199))}}
