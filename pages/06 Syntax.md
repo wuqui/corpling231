@@ -34,7 +34,6 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1686050711153_0.png)
 			- [[frequency]] analysis
-			  collapsed:: true
 				- determine the frequency of the construction in the corpus
 				  collapsed:: true
 					- ![image.png](../assets/image_1686050646760_0.png)
@@ -43,6 +42,7 @@
 						- [relative]([[frequency/relative]]) frequency (`Relative in text type`, pmw: per million words): 5.99 occurrences per million tokens/words (pmw)
 						  id:: 646c8ce6-ea3b-49f6-935c-5f1695699d7e
 				- investigate the [[diachronic]] frequency of the construction over time (by `Century`)
+				  collapsed:: true
 					- within Sketch Engine
 					  collapsed:: true
 						- ![image.png](../assets/image_1686050837519_0.png)
@@ -64,7 +64,6 @@
 								- ![image.png](../assets/image_1686051247474_0.png)
 			- query specifically for the noun in the construction using [[CQL]] (hint: use the operator `within` preceding the construction)
 			  id:: 646c8ab7-3d11-43d3-89d7-00d7944ebe60
-			  collapsed:: true
 				- identify the most frequent nouns used in the construction
 				  collapsed:: true
 					- ![image.png](../assets/image_1686051375921_0.png)

@@ -8,22 +8,27 @@
 	  > “Data from eight historical corpora spanning the period between 1250 and 1871 are investigated with regard to occurrences of the ‘N+BE+that-construction’ (as in my concern is that [...], the idea was that [...]). The formal, semantic, and pragmatic changes of this construction are described on the basis of 1,588 attestations retrieved from the corpora. Following this, the usage profiles of individual authors are examined. It is shown that even authors who are comparable in terms of period and genre show significant differences with regard to the frequency of use of the construction, collocational ranges and preferences, the use of semi-fixed lexical expressions manifesting the construction, as well as their functional preferences. These differences are interpreted from the perspective of the so-called ‘Entrenchment-and-Conventionalization Model’ (Schmid 2014a and 2015). It is argued that the usage profiles of individual authors can provide insights into the ways in which the construction under investigation was represented in these authors’ minds, and that the observable collective long-term changes arise from the interaction of the cognitive processes in individual minds and the social processes taking place in the speech community.” (Schmid and Mantlik, 2015, p. 583)
 - the construction: `the N BE that`
   id:: 646c88dc-74b3-4967-9c65-677007940e4d
+  collapsed:: true
 	- examples
+	  collapsed:: true
 		- collapsed:: true
 		  > (as in my concern is that [...], the idea was that [...])
 			- taken from [abstract](((646c8707-eff6-415a-aeef-ecde49f26c76)))
 	- corpus attestation
+	  collapsed:: true
 		- ![image.png](../assets/image_1684834536931_0.png){:height 80, :width 540}
 		  id:: 646c88e8-8923-4244-8457-d4791a56e7a0
 		  collapsed:: true
 			- p. 586
 	- analysis in terms of [[Construction Grammar]]
+	  collapsed:: true
 		- ![image.png](../assets/image_1684834699012_0.png)
 		  id:: 646c898a-23b1-46e0-82ea-39c4e1ca833e
 		  collapsed:: true
 			- p. 586
 - [[EC-Model]]
   id:: 647f0619-8bfb-42b3-b4af-607eb44184b2
+  collapsed:: true
 	- ![image.png](../assets/image_1686046238726_0.png)
 	  collapsed:: true
 		- p. 588
@@ -44,7 +49,6 @@
 			-
 			- p. 601
 	- [[text type]] distribution
-	  collapsed:: true
 		- ![image.png](../assets/image_1686046395450_0.png)
 		  id:: 647f06ba-5e13-4ba5-924d-4f73fdc7655f
 		  collapsed:: true
