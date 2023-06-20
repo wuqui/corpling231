@@ -6,6 +6,7 @@
 - linguistic variation
 	- types of [[linguistic variation]] and [[varieties]]
 	  id:: 647ee07c-6f9e-40df-9e07-da25830ac199
+	  collapsed:: true
 		- ![image_1686036544207_0.png](../assets/image_1686036544207_0_1686036677871_0.png)
 			- [[Kortmann2020EnglishLinguistics]]: 204
 	- variation between individual speakers
@@ -39,6 +40,7 @@
 			- {{embed ((646c9bdd-a595-46b1-a2c5-58d66fcb592b))}}
 - [[practice]]
 	- building on [[06 Syntax]]
+	  collapsed:: true
 		- {{embed ((646c8de9-6e1a-4e34-a604-12ad00520bf6))}}
 	- compare the use of the construction between authors
 	  id:: 647f42de-e921-4037-85e9-7d51779e71de
@@ -50,7 +52,9 @@
 			- [[Samuel Richardson]]
 			- [[Charlotte Brontë]]
 		- frequency of the construction: [relative frequency]([[frequency/relative]]) (pmw: per million words)
+		  collapsed:: true
 			- [[Sketch Engine]] analysis
+			  collapsed:: true
 				- for [[Samuel Pepys]]
 					- ![image.png](../assets/image_1686049252238_0.png)
 					- ![image.png](../assets/image_1686049285961_0.png)
@@ -58,17 +62,19 @@
 				- gather data for all authors (see [here](((647f139f-fefe-4c6d-90bf-90f5b2a1c5ff))))
 				- make a table
 				- make bar charts
+				  collapsed:: true
 					- for [absolute frequency]([[frequency/absolute]]): `Number of hits`
 					- for [relative frequency (pmw)]([[frequency/relative]]): `Number of hits per million tokens`
 		- semantic variation: do these authors show semantic/functional differences in their use of the construction? → nouns within the construction (e.g. *thing* in *the thing is that*): see [here](((646c8ab7-3d11-43d3-89d7-00d7944ebe60)))
 			- for [[Samuel Pepys]]
+			  collapsed:: true
 				- ![image.png](../assets/image_1686049062398_0.png)
 				- results by [[Schmid2015Entrenchment]]
 					- ![image.png](../assets/image_1686049092430_0.png)
 						- p. 610
 			- investigate corpus attestations to get a sense of the semantic differences
 			- take notes summarising the observed differences
+				- ((64886ad2-420f-40e7-933e-06a9ab7469f8))
 	- further study: [[diachronic]] change
-	  collapsed:: true
 		- Does the semantic profile of the construction change over time (when analysed across all authors)?
 		- How has this change evolved in later stages – more recent corpora like [[COHA]]?

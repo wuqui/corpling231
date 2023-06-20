@@ -49,12 +49,12 @@
 			-
 			- p. 601
 	- [[text type]] distribution
+	  collapsed:: true
 		- ![image.png](../assets/image_1686046395450_0.png)
 		  id:: 647f06ba-5e13-4ba5-924d-4f73fdc7655f
 		  collapsed:: true
 			- p. 600
 	- [[speaker variation]]
-	  collapsed:: true
 		- ![image.png](../assets/image_1686046517173_0.png)
 		  id:: 647f0734-ac35-4b68-bf52-0cc558e7b4cc
 		  collapsed:: true
@@ -63,9 +63,10 @@
 		  id:: 647f073d-ed74-4752-9930-0c3aedd92107
 		  collapsed:: true
 			- p. 607
+	- ![image.png](../assets/image_1686661845043_0.png)
+	  id:: 64886ad2-420f-40e7-933e-06a9ab7469f8
 	- [semantic change]([[semantic/change]])
 	  id:: 646c9bdd-a595-46b1-a2c5-58d66fcb592b
-	  collapsed:: true
 		- ![image.png](../assets/image_1684839433344_0.png){:height 375, :width 540}
 		  collapsed:: true
 			- p. 597

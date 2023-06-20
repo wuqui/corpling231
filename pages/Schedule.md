@@ -9,7 +9,7 @@
   |  —  | [[May 30th, 2023]]                | —                                     |
   | 07 | [[Jun 6th, 2023]]  | [[07 Linguistic variation]]                 |
   | 08 | [[Jun 13th, 2023]] | [[08 Linguistic variation]]                 |
-  | 09 | [[Jun 20th, 2023]] | Language change                      |
+  | 09 | [[Jun 20th, 2023]] | [[09 Language change]]                      |
   | 10 | [[Jun 27th, 2023]] | Language change                      |
   | 11 | [[Jul 4th, 2023]]  | Research projects                    |
   | 12 | [[Jul 11th, 2023]] | Term papers                          |

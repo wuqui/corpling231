@@ -3,6 +3,7 @@ tags:: session
 - # theory: lexical innovation
   collapsed:: true
 	- ## conventionalization & diffusion
+	  collapsed:: true
 		- ### [[EC-Model]]
 		  collapsed:: true
 			- {{embed ((6447aec5-f6ed-4fc0-99e4-23a9d1ea761f))}}
@@ -22,6 +23,7 @@ tags:: session
 			  collapsed:: true
 				- ![image.png](../assets/image_1683026241397_0.png)
 	- ## [using frequency]([[frequency]]) as an indicator of conventionality and diffusion
+	  collapsed:: true
 		- ### operationalization
 		  collapsed:: true
 			- [[corpus-as-input]] and [[corpus-as-output]]
@@ -93,13 +95,16 @@ tags:: session
 	- for each of these words, using [[Sketch Engine]],
 		- in the [[Timestamped JSI web corpus 2014-2021 English]], determine
 			- its total [frequency]([[frequency]])
+			  collapsed:: true
 				- for [[alt-right]]
+				  collapsed:: true
 					- query: `[lemma="alt-right"]`
 					- result
 						- ![Screenshot 2023-05-09 at 11.04.54.png](../assets/Screenshot_2023-05-09_at_11.04.54_1683623177745_0.png)
 							- absolute total frequency: `86,572`
 							- relative total frequency: `1.23` per million words/tokens (pmw)
 			- its [frequency]([[frequency]]) over time: which was the `Year` it was used the most?
+			  collapsed:: true
 				- ![Screenshot 2023-05-09 at 11.07.38.png](../assets/Screenshot_2023-05-09_at_11.07.38_1683623335276_0.png)
 				- ![Screenshot 2023-05-09 at 11.11.02.png](../assets/Screenshot_2023-05-09_at_11.11.02_1683623534916_0.png)
 					- sort by year
@@ -107,13 +112,17 @@ tags:: session
 					- `Relative in text type`: relative frequency (per million words)
 		- in the [[enTenTen20]] corpus, determine
 			- in which `Topic` was it used the most? ([[text type]])
+			  collapsed:: true
 				- for [[alt-right]]
 					- ![Screenshot 2023-05-09 at 11.14.00.png](../assets/Screenshot_2023-05-09_at_11.14.00_1683623774717_0.png)
 					- ![image.png](../assets/image_1683623788788_0.png)
 		- take notes and compare your results
 			- which words show highest/lowest degrees of [conventionality]([[conventionalization]])?
+			  collapsed:: true
 				- in the [[Timestamped JSI web corpus 2014-2021 English]]
+				  collapsed:: true
 					- using the query, e.g., `[lemma="alt-left"]`
+					  collapsed:: true
 						- |Lexeme|FreqAbs|FreqRel|
 						  |:---|---:|----:|
 						  |*alt-right*|86,572|1.23|
@@ -123,6 +132,7 @@ tags:: session
 						  |*alt-left*|3,665|0.05|
 						  |*poppygate*|15|< 0.01|
 			- for which words is there a discrepancy to the results on Twitter?
+			  collapsed:: true
 				- {{embed ((6450f28f-eafd-4c42-a56d-50f417b67585))}}
 				- *upskill* and *hyperlocal* ranked higher -> in line with [[social network analysis]] in [[Würschinger2021SocialNetworks]]
-		- bonus: create charts in [Excel]([[Microsoft Excel]])
+		- follow-up: create charts in [Excel]([[Microsoft Excel]])

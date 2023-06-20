@@ -6,7 +6,6 @@ tags:: session
 	- announcement: [[PAD Fremdsprachenassistenz]]
 		- {{embed [[PAD Fremdsprachenassistenz]]}}
 - # fundamentals in [[morphology and word-formation]]
-  collapsed:: true
 	- [morphology]([[morphology]]) vs [word-formation]([[word-formation]])
 	  collapsed:: true
 		- ![Schmid2016-morphology-vs-word-formation.png](../assets/Schmid2016-morphology-vs-word-formation_1683625984509_0.png)
@@ -18,6 +17,7 @@ tags:: session
 	  collapsed:: true
 		- ![image.png](../assets/image_1683626164237_0.png)
 	- [non-morphemic word-formation]([[word-formation/non-morphemic]]) processes
+	  collapsed:: true
 		- overview
 			- ![image.png](../assets/image_1683626221693_0.png){:height 213, :width 686}
 		- characteristics
@@ -26,6 +26,7 @@ tags:: session
 			- [[denotational]] [[meaning]]: changes and variation in core meaning
 			- [[connotational]] [[meaning]]: changes and variation in the associative signature of words (e.g. social, stylistic)
 	- [[exercise]]: Analyze the word-formation processes involved in the following complex words.
+	  collapsed:: true
 		- *childhood*
 		  collapsed:: true
 			- derivation / suffixation
@@ -51,6 +52,7 @@ tags:: session
 		  collapsed:: true
 			- clipping
 - # a corpuslinguistic study of clipping: [[Hilpert2023Meaning]]
+  collapsed:: true
 	- ((645a1add-5577-41b5-a719-4379a3fc72d5))
 	- ## abstract
 	  collapsed:: true
@@ -89,11 +91,13 @@ tags:: session
   id:: 645a1aa2-28a7-41f4-bf64-bc8afce0bfa4
 	- using [[Sketch Engine]]
 		- for the dataset of clippings from [[Hilpert2023Meaning]]
+		  collapsed:: true
 			- ![image.png](../assets/image_1683629476811_0.png)
 			  id:: 645a24aa-aa0c-4e46-87c3-3afc287b2a9a
 		- for example pairs of (1) source words (e.g. *brother*) and (2) clipped form (e.g. *bro*)
 			- determine their [[frequency]]
 			  id:: 645a1b1f-99b5-43c5-be5a-23f355169129
+			  collapsed:: true
 				- total frequency in the [[Timestamped JSI web corpus 2014-2021 English]]
 					- determine frequency for
 						- absolute

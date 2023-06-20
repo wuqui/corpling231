@@ -4,6 +4,7 @@
 		- {{embed ((645a1b1f-99b5-43c5-be5a-23f355169129))}}
 	- ## studying [[semantics]] in the [[enTenTen20]] corpus
 	  id:: 1e44dc00-0557-4672-9187-6986cf52b3e7
+	  collapsed:: true
 		- theoretical background on [[collocations]]
 		  collapsed:: true
 			- ((f67743f8-3c70-475b-993b-1f2eb4bc9a2f))
@@ -60,11 +61,9 @@
 		- conclusion by [[Hilpert2023Meaning]]
 			- ((646c7ffd-f579-4778-a862-f26364baf6ec))
 - # syntax
-  collapsed:: true
 	- studying syntactical constructions: [[Schmid2015Entrenchment]]
 	- see ((61964467-2068-4ed7-bf8c-a0f00fa5293e))
 - # using [[english-corpora.org]]
-  collapsed:: true
 	- based on the syntactic study in [[Schmid2015Entrenchment]]: `the NOUN BE that` (e.g. *the thing is that*)
 		- using [[COHA]]: https://www.english-corpora.org/coha/
 			- forms and strings

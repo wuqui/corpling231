@@ -56,8 +56,10 @@ tags:: session
 				- dictionary project: [[eDIANA]] by [[ITG]]
 			- methods
 - # Introduction
+  collapsed:: true
 	- ## Introduction to [[corpus linguistics]]
 		- ### What is corpus linguistics about?
+		  collapsed:: true
 			- Corpus linguistics is a research methodology within the field of linguistics that focuses on the systematic study of language using large and diverse **collections of authentic texts**, known as [[corpora]].
 			- These collections of language data, either written or spoken, provide a comprehensive and [empirical basis]([[empirical data]]) for the analysis of
 				- language use (e.g. collocational patterns such as *pretty woman*)
@@ -70,6 +72,7 @@ tags:: session
 					- [[Twitter]] and [[Reddit]]
 				- [[methods]] (e.g. [social network analysis]([[social network analysis]]), [machine learning]([[machine learning]])).
 		- ### What is corpus linguistics good for?
+		  collapsed:: true
 			- Corpus linguistics as a [[usage-based approach]] to linguistic analysis
 				- Corpus linguistics is highly valuable from a usage-based approach to linguistics, as it emphasizes the importance of **actual language use** in shaping linguistic knowledge and structure.
 				- The usage-based perspective posits that **linguistic structure and knowledge emerge from the patterns** and regularities that speakers encounter in their experience with language.
@@ -82,8 +85,10 @@ tags:: session
 					- [Language change]([[language change]]) and development: Corpus linguistics can be applied to [diachronic]([[diachronic]]) and [synchronic]([[synchronic]]) data, allowing researchers to track language change over time and compare different stages of language development. This helps to shed light on the emergence and evolution of linguistic structures, which is of particular interest to [usage-based theorists]([[usage-based approach]]) who seek to explain language change as a result of cumulative changes in usage patterns.
 					- Data-driven [language teaching]([[language teaching]]) and [learning]([[language learning]]): The usage-based approach emphasizes the importance of [[exposure]] to authentic [[language input]] in the acquisition process. Corpus linguistics can inform the development of language teaching materials and methods, by providing insights into the most [frequent]([[frequency]]) and relevant structures, vocabulary, and collocations that learners need to acquire.
 		- ### Key concepts in corpus linguistics
+		  collapsed:: true
 			- {{embed ((643e61f8-cf0b-4b40-b162-8132663181d8))}}
 		- ### The scope of this course
+		  collapsed:: true
 			- topics
 			  collapsed:: true
 				- [[neologisms]] and [[lexical innovation]]

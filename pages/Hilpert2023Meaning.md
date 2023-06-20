@@ -8,21 +8,27 @@ tags:: [[paper]]
   id:: 645a1b9e-f78b-46c6-a43e-262f285a67d2
 	-
 	- > This paper uses corpus data and methods of [[distributional semantics]] in order to study English [clippings]([[clipping]]) such as dorm (< dormitory), memo (< memorandum), or quake (< earthquake).
-	- > We investigate whether systematic [meaning differences]([[semantic/variation]]) between clippings and their source words can be detected.
+	- id:: 646c7ffd-bf32-4ce5-9756-917cc35793c1
+	  > We investigate whether systematic [meaning differences]([[semantic/variation]]) between clippings and their source words can be detected.
 	- > The analysis is based on a sample of 50 English clippings.
-	- > Each of the clippings is represented by a [concordance]([[concordance]]) of 100 examples in context that were gathered from the [Corpus of Contemporary American English]([[COCA]]).
-	- > We compare clippings and their source words both at the aggregate level and in terms of comparisons between individual clippings and their source words.
-	- > The data show that clippings tend to be used [in contexts]([[text type/variation]]) that represent involved text production, which aligns with the idea that clipped words signal familiarity with their referents.
+	- id:: 646c7ffd-64bb-4d36-b9eb-e4f2494ab615
+	  > Each of the clippings is represented by a [concordance]([[concordance]]) of 100 examples in context that were gathered from the [Corpus of Contemporary American English]([[COCA]]).
+	- id:: 646c7ffd-caf2-4a96-b8e4-16eedf3cecfd
+	  > We compare clippings and their source words both at the aggregate level and in terms of comparisons between individual clippings and their source words.
+	- id:: 646c7ffd-bfe5-4944-b360-056be5d512c8
+	  > The data show that clippings tend to be used [in contexts]([[text type/variation]]) that represent involved text production, which aligns with the idea that clipped words signal familiarity with their referents.
 	- id:: 646c7ffd-f579-4778-a862-f26364baf6ec
 	  > It is further observed that individual clippings and their source words partly diverge in their distributional profiles, reflecting both overlap and differences with regard to their meanings.
 	- > We interpret these findings against the theoretical background of [Construction Grammar]([[Construction Grammar]]) and specifically the Principle of No Synonymy.
 - [[keywords]]
+  collapsed:: true
 	- clipping, COCA, distributional profile, Construction Grammar, Principle of No Synonymy
 - [[research questions]]
 	- > “This paper uses corpus data in order to study English clippings such as dorm (< dormitory), memo (< memorandum), or quake (< earthquake), which are formed on the basis of existing lexical items from which phonological material is deleted. More specifically, we investigate meaning differences between clippings and their source words. Are there semantic or pragmatic differences between pairs such as dorm and dormitory, and if so, what are they? Is it possible to formulate generalizations that capture how clippings and their source words relate to one another with regard to meaning? How should these relations be described?” (Hilpert et al., 2023, p. 19)
 - [[data]]
   id:: 645a1d76-e12f-450a-86b2-e69ccea0890f
-	- > “Our study focuses on a set of 50 English [clippings]([[clipping]]) and their corresponding source words.
+	- id:: 646c7ffd-9ec6-4e8d-a179-d516891af48f
+	  > “Our study focuses on a set of 50 English [clippings]([[clipping]]) and their corresponding source words.
 		- ((645a24aa-aa0c-4e46-87c3-3afc287b2a9a))
 		  id:: 645a2870-9ab6-4a81-941d-44fe6a3c121a
 	- id:: 645a2859-a8d9-42e6-a102-69fd03ed164e
@@ -50,6 +56,7 @@ tags:: [[paper]]
 - [[text type]] features
   id:: 645a2a9e-c7a6-4959-801f-dea28d63998f
 	- ![image.png](../assets/image_1683630755727_0.png)
+	  id:: 646c7ffd-a38c-4a5b-8f4f-174115b0de8d
 	- p. 25
 - differences in [[collocations]] for *cardio-vascular* vs *cardio*
   id:: 645a2b02-c578-4edc-b121-f5bca5a76389

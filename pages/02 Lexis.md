@@ -7,6 +7,7 @@ tags:: session
 	- Modulprüfung
 - background on [[lexis]] / [[lexical innovation]]
 	- cultural and linguistic innovation
+	  collapsed:: true
 		- society continually changes as new practices and products emerge (e.g. smartphones)
 		- these changes typically first manifest themselves in language on the level of lexis in the form of [[neologisms]] (e.g. the words *smartphone* or *iphone*)
 		  collapsed:: true
@@ -18,14 +19,18 @@ tags:: session
 				- *spreader*
 		- knowledge of words is [conventional]([[conventionalization]]): speakers learn form-meaning pairings (→ model of the linguistic Sign by Ferdinand de Saussure; e.g. *tree*)
 	- [[theoretical framework]]
+	  collapsed:: true
 		- the [[S-curve model]] of [linguistic innovation]([[linguistic innovation]]), [[diffusion]], and [change]([[language change]])
+		  collapsed:: true
 			- {{embed ((6447af61-6674-4374-9bab-a132f1af0f01))}}
 		- [[EC-Model]] ([[Schmid2015Blueprint]], [[Schmid2020DynamicsLinguistic]])
+		  collapsed:: true
 			- the more frequently a word is used, the more likely it is
 				- that speakers have stored it in their [[mental lexicon]] ([[entrenchment]])
 				- that it is part of the conventional language system of a language ([[conventionalization]])
 			- {{embed ((6447aec5-f6ed-4fc0-99e4-23a9d1ea761f))}}
 	- [[operationalization]]
+	  collapsed:: true
 		- [[frequency]] as an indicator for [[entrenchment]] and [conventionality]([[conventionalization]]) ([[Stefanowitsch2017CorpusbasedPerspective]])
 		  id:: 646c7ffc-80c0-4526-935c-4c5f3d015114
 			- [[corpus-as-input]]: language used in corpora represents potential [[exposure]] to speakers
