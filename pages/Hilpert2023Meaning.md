@@ -6,7 +6,6 @@ tags:: [[paper]]
 - [pdf](../assets/Hilpert2023Meaning_1683626839872_0.pdf)
 - [[abstract]]
   id:: 645a1b9e-f78b-46c6-a43e-262f285a67d2
-	-
 	- > This paper uses corpus data and methods of [[distributional semantics]] in order to study English [clippings]([[clipping]]) such as dorm (< dormitory), memo (< memorandum), or quake (< earthquake).
 	- id:: 646c7ffd-bf32-4ce5-9756-917cc35793c1
 	  > We investigate whether systematic [meaning differences]([[semantic/variation]]) between clippings and their source words can be detected.

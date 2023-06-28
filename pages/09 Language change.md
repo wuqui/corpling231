@@ -2,24 +2,30 @@
   collapsed:: true
 	- {{embed ((64883efe-ba47-44b0-9fec-5646976a8d4e))}}
 - # how to use [[english-corpora.org]]
-  collapsed:: true
+  id:: 64917fe0-a4ce-4950-b143-095414e022e3
 	- overview of corpora
 	  collapsed:: true
 		- ![image.png](../assets/image_1687259415127_0.png)
-	- syntax
+	- query syntax
 	  collapsed:: true
 		- lexemes
+		  collapsed:: true
 			- query`ADMIN` in the [[NOW corpus]]
 				- ![image.png](../assets/image_1687258926938_0.png)
 		- wildcards
+		  collapsed:: true
 			- query `admin*` in the [[NOW corpus]]
+			  collapsed:: true
 				- ![image.png](../assets/image_1687258861595_0.png)
 				  id:: 649186ec-905d-4796-8eff-033adada0dbe
 		- word classes
+		  collapsed:: true
 			- ![image.png](../assets/image_1687259357965_0.png)
 			- query `run_nn` in the [[NOW corpus]]
+			  collapsed:: true
 				- ![image.png](../assets/image_1687259262662_0.png)
 			- query `run_vv` in the [[NOW corpus]]
+			  collapsed:: true
 				- ![image.png](../assets/image_1687259313776_0.png)
 	- [[collocations]]
 	  collapsed:: true
@@ -28,14 +34,16 @@
 	- views
 	  collapsed:: true
 		- list view
+		  collapsed:: true
 			- ((649186ec-905d-4796-8eff-033adada0dbe))
 		- chart view
+		  collapsed:: true
 			- query `decaf` in the [[NOW corpus]]
 				- ![image.png](../assets/image_1687259109695_0.png)
 - # language change
 	- ## [[lexical innovation]] and [[language change]] in the use of [[blends]] (→ [[Hilpert2023Meaning]])
-	  collapsed:: true
-		- background
+	  id:: 64917fe7-8500-4261-99bc-f50ff0d481d4
+		- theoretical background
 		  collapsed:: true
 			- ((646c7ffd-bf32-4ce5-9756-917cc35793c1))
 			- ((646c7ffd-64bb-4d36-b9eb-e4f2494ab615))
@@ -61,7 +69,8 @@
 						- ![image.png](../assets/image_1687260592633_0.png)
 							- [[frequency/absolute]]: `FREQ`
 							- [[frequency/relative]]: `PER MIL`
-				- [[geographical variation]]: gather data in the sheet `FreqGeo`
+				- [[geographical variation]]: Are clipped forms used more frequently in the US or GB?
+					- gather data in the sheet `FreqGeo`
 					- for all clipped forms, get the frequency information for `United States` and `Great Britain` using the `See frequency by country` button in the chart view
 						- ![image.png](../assets/image_1687261009696_0.png)
 					-
