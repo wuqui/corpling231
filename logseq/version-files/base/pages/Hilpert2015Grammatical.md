@@ -1,10 +1,10 @@
 - Chapter 10 in [[Biber2015Cambridge]]
+- PDF: [Hilpert2015Grammatical.pdf](../assets/Hilpert2015Grammatical_1688464428224_0.pdf)
 - [[bibliography]]
 	- Hilpert, Martin, and Christian Mair. 2015. ‘Grammatical Change’. In *The Cambridge Handbook of English Corpus Linguistics*, edited by Douglas Biber and Randi Reppen, 180–200. Cambridge: Cambridge University Press.
 	  id:: 649abd0a-2934-4eca-96f8-8ff4f85e03e3
 - “Another domain of English grammar that is currently undergoing change is the domain of modality, specifically the modal auxiliaries. In the most general of terms, the situation is that several of the core modal auxiliaries” (“The Cambridge Handbook of English Corpus Linguistics”, 2015, p. 185)
   id:: 649abd74-682e-4c07-b388-6ccbafd6fb97
--
 - “are declining in text frequency (Leech 2003; Mair 2006), while at the same time new quasi-modal elements are undergoing grammaticalization (Krug 2000).” (“The Cambridge Handbook of English Corpus Linguistics”, 2015, p. 186)
   id:: 649abd8e-4b68-46ff-8a69-b11f268aa2cf
 - “The result is a dynamic situation that raises a number of questions. For instance, it has been asked why certain forms are in decline whereas others are on the upswing. Is there a relation between these developments, and if so, how do we assign the roles of cause and effect?” (“The Cambridge Handbook of English Corpus Linguistics”, 2015, p. 186)
@@ -12,7 +12,7 @@
 - “Parallel cross-variety declines are particularly in evidence for the modals would, may, should, must, and shall.” (“The Cambridge Handbook of English Corpus Linguistics”, 2015, p. 186)
   id:: 649b01d8-55ec-4a2b-9455-ac178224b327
 - ![image.png](../assets/image_1687862730894_0.png)
-  collapsed:: true
+  id:: 649abdca-12ca-4150-ae99-5b6edae8284f
 	- p. 186
 	- **The [[Brown Corpus]]**
 		- This corpus was the first computer-readable general corpus of texts prepared for linguistic research on modern English.
