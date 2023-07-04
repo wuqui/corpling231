@@ -17,13 +17,16 @@
 	- query syntax
 	  collapsed:: true
 		- lexemes
+		  collapsed:: true
 			- query`ADMIN` in the [[NOW corpus]]
 				- ![image.png](../assets/image_1687258926938_0.png)
 		- wildcards
+		  collapsed:: true
 			- query `admin*` in the [[NOW corpus]]
 				- ![image.png](../assets/image_1687258861595_0.png)
 				  id:: 649186ec-905d-4796-8eff-033adada0dbe
 		- word classes
+		  collapsed:: true
 			- ![image.png](../assets/image_1687259357965_0.png)
 			- query `run_nn` in the [[NOW corpus]]
 				- ![image.png](../assets/image_1687259262662_0.png)
@@ -38,6 +41,7 @@
 	  id:: 64917fe7-8500-4261-99bc-f50ff0d481d4
 	  collapsed:: true
 		- theoretical background
+		  collapsed:: true
 			- ((646c7ffd-bf32-4ce5-9756-917cc35793c1))
 			- ((646c7ffd-64bb-4d36-b9eb-e4f2494ab615))
 			- ((646c7ffd-caf2-4a96-b8e4-16eedf3cecfd))
@@ -57,17 +61,20 @@
 					- ![image.png](../assets/image_1688463174743_0.png)
 				- for *bro*
 					- ![image.png](../assets/image_1688463153614_0.png)
-		- [[practice]] using [[english-corpora.org]]
+		- [[practice]] using [[english-corpora.org]] ([[NOW corpus]])
+		  collapsed:: true
 			- gather your results in this cloud-based [[Microsoft Excel]] sheet: https://1drv.ms/x/s!AvkgNVl9yS6aoHF5zsqY2kmwifHf
 			  id:: 64918cff-725a-4b4d-bb07-f8464faa4bd4
 			- [[frequency]] analysis
 				- [[diachronic]] frequency: sheet `FreqDiac`
+				  collapsed:: true
 					- How often were the source and clipped forms used in 2010 and 2020?
 						- hint: use lemmatised searches (e.g. `ADMIN` and `ADMINISTRATION`)
 						- ![image.png](../assets/image_1687260592633_0.png)
 							- [[frequency/absolute]]: `FREQ`
 							- [[frequency/relative]]: `PER MIL`
 				- [[geographical variation]]: Are clipped forms used more frequently in the US or GB?
+				  collapsed:: true
 					- gather data in the sheet `FreqGeo`
 					- for all clipped forms, get the frequency information for `United States` and `Great Britain` using the `See frequency by country` button in the chart view
 						- ![image.png](../assets/image_1687261009696_0.png)
