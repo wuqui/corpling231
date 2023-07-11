@@ -10,5 +10,5 @@
   | [[Jun 13th, 2023]] | [[08 Linguistic variation]] |
   | [[Jun 20th, 2023]] | [[09 Language change]] |
   | [[Jul 4th, 2023]]  | [[10 Language change]] |
-  | [[Jul 11th, 2023]] | Creating corpora |
+  | [[Jul 11th, 2023]] | [[11 Creating corpora]] |
   | [[Jul 18th, 2023]] | Research projects and term papers |

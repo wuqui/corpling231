@@ -13,6 +13,7 @@
   id:: 649b01d8-55ec-4a2b-9455-ac178224b327
 - ![image.png](../assets/image_1687862730894_0.png)
   id:: 649abdca-12ca-4150-ae99-5b6edae8284f
+  collapsed:: true
 	- p. 186
 	- **The [[Brown Corpus]]**
 	  collapsed:: true
