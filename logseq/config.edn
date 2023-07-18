@@ -144,7 +144,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {}
+ :shortcuts {:go/search "meta+o", :editor/move-block-up "meta+k", :editor/move-block-down "meta+j"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
@@ -345,6 +345,7 @@
  :feature/enable-timetracking? false
  :feature/enable-whiteboards? true
  :ui/show-brackets? false
+ :journal/page-title-format "EEE, dd.MM.yyyy"
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"

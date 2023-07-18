@@ -1,3 +1,7 @@
+- OCR: Optical Character Recognition
+  collapsed:: true
+	- which tools?
+		- tesseract
 - recap: language change
   collapsed:: true
 	- {{embed ((649aaeb1-7849-422b-9d30-8860afb2566d))}}
@@ -27,7 +31,6 @@
 			- A corpus should aim for **homogeneity** in its components while maintaining adequate **coverage**, and rogue texts should be avoided.
 			  logseq.order-list-type:: number
 		- creating specialised corpora ([[Koester2022Building]])
-		  collapsed:: true
 			- **Specific purpose** for compilation, e.g. to investigate a particular grammatical or lexical item;
 			- **Contextualisation**: particular setting, participants and communicative purpose;
 			- **Genre**, e.g. promotional (grant proposals, sales letters);
@@ -35,12 +38,11 @@
 			- **Subject matter/topic**, e.g. economics;
 			- **Variety** of English, e.g. Learner English.
 		- further reading
-		  collapsed:: true
 			- ((64ad1d93-bf3b-4547-9358-dce5c57060e6))
 			- ((646c7ffd-d8fa-4c0a-9c48-caf9553e11b3))
 	- [[practice]]: using [[Sketch Engine]]
+	  id:: 64b64be4-fda2-4bca-9e30-0251b4b6ba53
 		- from documents: [[Gutenberg Project]] corpus
-		  collapsed:: true
 			- example sources
 			  id:: 64ad3535-c326-45d4-87f2-b6fd65ff1f7c
 			  collapsed:: true
@@ -75,7 +77,6 @@
 						  collapsed:: true
 							- "The Facts Concerning the Recent Carnival of Crime in Connecticut" is a short story by Mark Twain. Unfortunately, I couldn't find a detailed summary or the publication year on Wikipedia. However, the story is known for its satirical take on morality. It features the protagonist's encounter with his own conscience, personified as a loathsome creature. The protagonist realizes that by listening to his conscience, he has been led to live a life of excessive guilt and moral restriction. In a twist of events, he manages to eliminate his conscience, leading to a series of immoral acts that he carries out with impunity.
 			- download books from [[Gutenberg Project]]
-			  collapsed:: true
 				- https://www.gutenberg.org/ebooks/
 				- ![image.png](../assets/image_1689071804678_0.png)
 				- ![image.png](../assets/image_1689071852040_0.png)
@@ -86,76 +87,57 @@
 				- folder containing the [above texts](((64ad3535-c326-45d4-87f2-b6fd65ff1f7c))): https://syncandshare.lrz.de/getlink/fiNLvybs58MssaahhqHET7/gutenberg
 			- create corpus in [[Sketch Engine]]
 				- initialise corpus
-				  collapsed:: true
 					- ![image.png](../assets/image_1689073077636_0.png)
 				- upload files
-				  collapsed:: true
 					- ![image.png](../assets/image_1689073106605_0.png)
 				- edit metadata
-				  collapsed:: true
 					- ![image.png](../assets/image_1689073199447_0.png)
 					- ![image.png](../assets/image_1689075875109_0.png)
 						- note that you can and should use bulk editing
 				- compile your corpus
 			- corpus information
-			  collapsed:: true
 				- overview
-				  collapsed:: true
 					- ![image.png](../assets/image_1689073961699_0.png)
 				- text type distributions
-				  collapsed:: true
 					- ![image.png](../assets/image_1689073981781_0.png)
 			- keyword analysis
 			  collapsed:: true
 				- ![image.png](../assets/image_1689074608684_0.png)
 				- ![image.png](../assets/image_1689074479699_0.png)
 			- sharing corpora
-			  collapsed:: true
 				- this example corpus is shared with all LMU users
 				- you should find it under its name `qw-corpling-gutenberg`
 				- you should be able to add files and edit metadata
 		- from the web
-		  collapsed:: true
 			- [Sketch Engine documentation](https://www.sketchengine.eu/guide/create-a-corpus-from-the-web/)
 			  id:: 64ad1ab6-c075-43b4-97ce-69e469244f39
-			  collapsed:: true
 				- settings
 					- default settings
-					  collapsed:: true
 						- > As a rule of thumb, do not worry about the advanced settings and use 
 						  the default settings. Only if the results do not produce the desired 
 						  results, start looking into the advanced settings.
 					- multi-word search terms
-					  collapsed:: true
 						- > Please note that you can use multiwords such as “kick the bucket” using the quotes, and also proper names of different kinds.
 					- denylist
-					  collapsed:: true
 						- > Denylist keywords can also be used to reduce ambiguity (e.g. you might use “politics” when collecting a corpus on the environment using “party”). It is only necessary to use the denylist and allowlist if you irrelevant documents are found, otherwise it is not necessary.
 					- searching for specific varieties
-					  collapsed:: true
 						- > Limit the search to only UK domains or the domains of Portugal. Type .uk (.pt) into the site list in the advanced options.
 				- making your corpus bigger
 					- > You can repeat the same procedure several times to enlarge the corpus. Sketch Engine will make sure no page, is included twice.
 			- initialise the corpus
-			  collapsed:: true
 				- ![image.png](../assets/image_1689069414044_0.png)
 					- use a name prefix: `qw`
 			- `Find texts on the web`
-			  collapsed:: true
 				- ![image.png](../assets/image_1689069492012_0.png)
 			- specify input criteria
-			  collapsed:: true
 				- ![image.png](../assets/image_1689069565383_0.png)
 					- for example using keywords: `the a and of you i` → neutral corpus
 					- remaining options: see [here](((64ad1ab6-c075-43b4-97ce-69e469244f39)))
 			- compile corpus
 			- check corpus information
-			  collapsed:: true
 				- overview
-				  collapsed:: true
 					- ![image.png](../assets/image_1689069701949_0.png)
 				- text type distributions
-				  collapsed:: true
 					- ![image.png](../assets/image_1689069747697_0.png)
 			- check keywords
 			  collapsed:: true

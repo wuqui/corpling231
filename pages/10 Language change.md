@@ -2,11 +2,11 @@
 - {{embed ((64917fe7-8500-4261-99bc-f50ff0d481d4))}}
 - # Language change among modal verbs ([[Hilpert2015Grammatical]])
   id:: 649aaeb1-7849-422b-9d30-8860afb2566d
-  collapsed:: true
 	- ## theory
 		- ((649abd0a-2934-4eca-96f8-8ff4f85e03e3))
 		- Modal verbs in English
 		  id:: 649ac78b-2cb0-4686-9390-52cd05c08ecf
+		  collapsed:: true
 			- core modal verbs
 				- will
 				- would
@@ -60,12 +60,10 @@
 				- 2000
 				- ![image.png](../assets/image_1687959697860_0.png)
 			- create bar charts that show
-			  collapsed:: true
 				- whether these individual words show frequency changes over time
-				  collapsed:: true
 					- ![image.png](../assets/image_1687959732182_0.png)
+					  id:: 64b64be4-04fb-41d4-a2e8-6317d8ea9a3d
 				- whether the groups of (1) core and (2) peripheral modal verbs show frequency changes on aggregate
-				  collapsed:: true
 					- ![image.png](../assets/image_1689070200344_0.png)
 		- Investigating whether those modals that exhibit the highest changes in frequency show (changes in) preferences for specific text types using the [[COCA]]
 			- ![image.png](../assets/image_1687959769997_0.png)
@@ -83,6 +81,7 @@
 						- 3. **Calculate the Coefficient of Variation**: Divide the standard deviation by the mean and multiply by 100 to get the coefficient of variation. If your mean is in cell B1 and your standard deviation is in cell B2, you would type `=(B2/B1)*100` in a new cell.
 				- differences between individual modal verbs
 					- ![image.png](../assets/image_1689070302563_0.png)
+					  id:: 64b64be4-e5a6-4ddf-9483-3cc5b0e458f5
 				- differences between the two groups of core and peripheral modal verbs
 					- ![image.png](../assets/image_1689070360661_0.png)
 			-
